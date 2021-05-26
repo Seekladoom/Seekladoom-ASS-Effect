@@ -1,0 +1,2 @@
+*.ass linguist-language=Lua
+*.lua linguist-language=Lua
